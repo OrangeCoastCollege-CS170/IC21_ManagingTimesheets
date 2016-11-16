@@ -4,11 +4,8 @@
 
 ### Write a small Java program that declares a two-dimensional array (size 3 x 5) to manage the hours worked by each of your three employees on a five-day work week. 
 
-**Example Transcation**
-
-```
 Prompt the user to enter the hours worked for each employee as follows:
-
+```
 Please enter hours worked for employee \#1 on Monday: 6
 Please enter hours worked for employee \#1 on Tuesday: 6.5
 Please enter hours worked for employee \#1 on Wednesday: 6 
@@ -26,9 +23,9 @@ Please enter hours worked for employee \#3 on Tuesday: 9.5
 Please enter hours worked for employee \#3 on Wednesday: 14 
 Please enter hours worked for employee \#3 on Thursday: 12 
 Please enter hours worked for employee \#3 on Friday: 13.5 
-
+```
 Store all the data entered into the two-dimensional array.  After the three employees have been entered, please print a total hours and average hours worked per day for each employee by looping through the two-dimensional array.  For example, output might look like:
-
+```
 Total hours worked for employee \#1 : 31.5
 Average hours worked for employee \#1 : 6.3
 
