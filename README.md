@@ -1,21 +1,12 @@
 # IC21_ManagingTimesheets
-##
-Badajoz, Seve
 
-CS A170
+## Badajoz, Seve</br>CS A170</br>November 16, 2016</br></br>IC21</h2>
 
-November 16, 2016
-
-
-
-
-IC21
-
-###Write a small Java program that declares a two-dimensional array (size 3 x 5) to manage the hours worked by each of your three employees on a five-day work week. 
+### Write a small Java program that declares a two-dimensional array (size 3 x 5) to manage the hours worked by each of your three employees on a five-day work week. 
 
 **Example Transcation**
 
-'''
+```
 Prompt the user to enter the hours worked for each employee as follows:
 
 Please enter hours worked for employee \#1 on Monday: 6
@@ -46,4 +37,4 @@ Average hours worked for employee \#2 : 8.5
 
 Total hours worked for employee \#3 : 59
 Average hours worked for employee \#3 : 11.8 
-'''
+```
